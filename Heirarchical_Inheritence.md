@@ -97,3 +97,6 @@ doc.display()
 ```
 ## Sample Output
 <img width="653" height="462" alt="{A50B0DF1-DED1-4927-820A-4A5CF82FE7BE}" src="https://github.com/user-attachments/assets/38efebb7-a5e5-4cbe-bd87-454056c443cc" />
+
+## Result
+Thus,the program is executed successfully.
